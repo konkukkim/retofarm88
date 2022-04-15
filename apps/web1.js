@@ -63,7 +63,7 @@ px 10px 7px;">다운로드 주소</p></th>\
                 <li style="list-style-type:none; background:url(http://m-img.cafe24.com/images/webzine/center/bul_101.gif) 0 11px no-repeat; padding:5px 0 0 8px; font:12px/1.4em dotum;">사용중 궁금\
 하신 점은 카페24 고객센터(http://help.cafe24.com)으로으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다으로 문의주시기 바랍니다 문의주시기 바랍니다.</li>\
  git push test
- git push test2
+ git push test20011111111
  
         </ul>\
 \
