@@ -28,17 +28,16 @@ $(function() {
                     });
                 },
                 updateItem: function(item) {
-					console.log('item', item);
                     return $.ajax({
                         type: "PUT",
-                        url: "/RTF_LOC_MST/",
+                        url: "/RTF_LOC_MST/" + item.loc_cd,
                         data: item
                     });
                 },
                 deleteItem: function(item) {
                     return $.ajax({
                         type: "DELETE",
-                        url: "/RTF_LOC_MST/",
+                        url: "/RTF_LOC_MST/" + item.loc_cd,
                         data: item
                     });
                 }
